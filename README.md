@@ -1,6 +1,6 @@
 <p align="center">
 <p align="center">
-<img src="https://camo.githubusercontent.com/0fc8c3b0b3a60d061f6f69bc0e7d8fdcab39d0108aaea52863863c20a86bb5a4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966" width="100%" height="400vh" align-items="center" justify-content="center"/>
+<img src="https://camo.githubusercontent.com/0fc8c3b0b3a60d061f6f69bc0e7d8fdcab39d0108aaea52863863c20a86bb5a4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966" width="100%" height="400vh" align-items="center" justify-content="center" style="border-radius:10%" />
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shankar. S
