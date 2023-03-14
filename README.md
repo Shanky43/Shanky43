@@ -1,5 +1,6 @@
 <p align="center">
-<img src="https://camo.githubusercontent.com/0fc8c3b0b3a60d061f6f69bc0e7d8fdcab39d0108aaea52863863c20a86bb5a4/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966" width="100%" height="400vh" align-items="center" justify-content="center"/>
+<p align="center">
+<img src="https://www.pskitservices.com/wp-content/uploads/2020/10/homepage-banner-animated-2.gif" width="100%" height="400vh" align-items="center" justify-content="center"/>
 </p>
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Shankar. S
@@ -11,7 +12,7 @@ Full Stack Web Developer
 As a passionate and motivated Full Stack Web Developer, I am excited to kickstart my career in the industry. I have completed Full Stack Web Development at Masai School and gained hands-on experience through various live projects. My expertise lies in developing user-friendly web applications using HTML, CSS, JavaScript, React, and Node.js. I am a quick learner and a team player, and I possess strong problem-solving skills. I am dedicated to delivering high-quality work that meets client's needs and exceeds their expectations. Check out my projects on GitHub to see my passion and proficiency in action!
 
 * 🌍  I'm based in INDIA
-* ✉️  You can contact me at [shankarshanky43@gmail.com](mailto:shankarshanky43@gmail.com)
+* ✉️  You can contact me at [Shankar.S](mailto:shankarshanky43@gmail.com)
 
 <a href="https://www.github.com/Shanky43" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/Shanky43?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
@@ -49,3 +50,5 @@ src="https://img.shields.io/github/followers/Shanky43?logo=github&style=for-the-
 
 <a href="https://github.com/Shanky43" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shanky43&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+
+</p>
