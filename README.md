@@ -9,6 +9,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Full Stack Web Developer
 ------------------------
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Developer;Web+Developer;React+Developer;Quick+learner&color=cyan&center=true" />
+</p>
+</div>
 
 As a passionate and motivated Full Stack Web Developer, I am excited to kickstart my career in the industry. I have completed Full Stack Web Development at Masai School and gained hands-on experience through various live projects. My expertise lies in developing user-friendly web applications using HTML, CSS, JavaScript, React, and Node.js. I am a quick learner and a team player, and I possess strong problem-solving skills. I am dedicated to delivering high-quality work that meets client's needs and exceeds their expectations. Check out my projects on GitHub to see my passion and proficiency in action!
 
